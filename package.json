@@ -1,0 +1,19 @@
+{
+  "name": "create-solana-app",
+  "version": "1.0.0",
+  "description": "create NextJS Solana boilerplates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"parcel index.html",
+    "build": "parcel build index.js"
+  },
+  "bin": {
+    "create-boilerplate": "./generate-app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
