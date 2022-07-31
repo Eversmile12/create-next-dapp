@@ -9,7 +9,7 @@
     "build": "parcel build index.js"
   },
   "bin": {
-    "create-boilerplate": "./generate-app.js"
+    "create-boilerplate": "./create-app.js"
   },
   "author": "",
   "license": "ISC",
